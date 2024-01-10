@@ -32,5 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirocandy06&show_icons=true&locale=vi" alt="sirocandy06" /></p>
 
-
--->
