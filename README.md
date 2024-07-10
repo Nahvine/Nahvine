@@ -8,11 +8,9 @@
 
 - 🔭 Sản Phẩm Mà Tôi Đang Nghiên Cứu **OGMode**
 
-- 🌱 Tôi hiện đang học **C# , Koltin , Shell , JS ,...**
+- 🌱 Ngôn ngữ **C# , Koltin , Shell , JS ,...**
 
-- 👯 Website của riêng tôi **Osteup.com**
-
-- 💬 Hỏi về tôi **Trợ giúp, thắc mắc**
+- 💬 Tôi Sẽ **Trợ giúp**
 
 - 📫 Liên lạc với tôi **enderboyvn81@gmail.com**
 
