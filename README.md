@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirocandy06" alt="sirocandy06" /></a> </p>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-- 🔭 Sản Phẩm Mà Tôi Đang Nghiên Cứu **OGMode**
+- 🔭 Đang Nghiên Cứu **OGMode, Ostebox**
 
 - 🌱 Ngôn ngữ **C# , Koltin , Shell , JS ,...**
 
