@@ -8,7 +8,7 @@
 
 - 🔭 Đang Nghiên Cứu **OGMode, Ostebox**
 
-- 🌱 Ngôn ngữ **C# , Koltin , Shell , JS ,...**
+- 🌱 Ngôn ngữ **C# , Kotlin , Shell , JS ,...**
 
 - 💬 Tôi Sẽ **Trợ giúp**
 
