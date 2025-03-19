@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yurayuraa</h1> <h3 align="center">A tech and programming enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=YriAne-yura&label=Profile%20views&color=0e75b6&style=flat" alt="YriAne-yura" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YriAne-yura" alt="YriAne-yura" /></a> </p> <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+
 🔭 Currently Researching OGMode, Ostebox
 
 🌱 Languages C#, Kotlin, Shell, JS, ...
