@@ -2,7 +2,7 @@
 
 🔭 Currently Researching OGMode, Ostebox
 
-🌱 Languages C#, Kotlin, Shell, JS, ...
+🌱 Languages C#, Kotlin, Python, JS, ...
 
 💬 I will help and assist
 
