@@ -1,36 +1,63 @@
-name: GitHub Metrics
+name: 🧠 Metrics Dashboard
 
 on:
-  # Cập nhật tự động mỗi ngày
-  schedule: 
-    - cron: "0 0 * * *"
-  # Cho phép cập nhật thủ công
+  schedule:
+    - cron: "0 0 * * *"  # mỗi ngày lúc 0:00 UTC (7h sáng VN)
   workflow_dispatch:
 
 jobs:
-  metrics:
+  isocalendar:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Nahvine
-          template: classic
-          base: header, activity, community, repositories
           config_timezone: Asia/Ho_Chi_Minh
-          plugin_lines: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_traffic: yes
-          plugin_repositories: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Nahvine
+          config_timezone: Asia/Ho_Chi_Minh
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: false
+
+  topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Nahvine
+          config_timezone: Asia/Ho_Chi_Minh
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Nahvine
+          config_timezone: Asia/Ho_Chi_Minh
+          base: ""
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
-          plugin_achievements_limit: 5
+          plugin_achievements_limit: 0
