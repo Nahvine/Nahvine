@@ -25,15 +25,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://fb.com/Nahvine"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCqnb_ntxhhG_js7OdiSGs1A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://discord.gg/77bzAwyPZP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
 ## 🛠 Tech Stack & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
