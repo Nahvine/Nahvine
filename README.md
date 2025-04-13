@@ -1,13 +1,71 @@
-<h1 align="center">Hello 👋, I'm Yurayuraa</h1> <h3 align="center">A tech and programming enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nahvine&label=Profile%20views&color=0e75b6&style=flat" alt="Nahvine" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nahvine" alt="Nahvine" /></a> </p> <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+<h1 align="center">✨ Hey there, I'm Yurayuraa ✨</h1>
+<h3 align="center">🚀 Code Alchemist | 🌐 Digital Dreamer | 🔧 Builder of Tech Realities</h3>
 
-🔭 Currently Researching OGMode, Ostebox
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nahvine&label=Profile%20views&color=ff69b4&style=flat" alt="Nahvine profile views" />
+</p>
 
-🌱 Languages C#, Kotlin, Python, JS, ...
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code+is+my+canvas;Art+meets+logic+here;Exploring+tech+realms+daily;Always+learning%2C+always+building&center=true&width=440&height=45&color=FF00C3&vCenter=true&pause=1000&size=22" />
+</div>
 
-💬 I will help and assist
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
 
-📫 Contact me at enderboyvn81@gmail.com
+---
 
-⚡ Fun fact I laugh a lot
+### 💡 About Me:
+- 🔭 Currently cooking up magic with **OGMode** & **Ostebox**
+- 🧠 Tech stack: `C#`, `Kotlin`, `Python`, `JavaScript`, `NodeJS`, `React`, `Android`, `Unity`, `Unreal`
+- ✨ Mixing design with logic, making tools that feel like art.
+- 💬 Always down to collaborate, brainstorm, or help solve a bug.
+- 📫 Reach out at **enderboyvn81@gmail.com**
+- 🎮 Fun fact: I debug faster with lofi and coffee ☕ + 🎧
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://fb.com/Nahvine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nahvine" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCqnb_ntxhhG_js7OdiSGs1A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nahvine" height="30" width="40" /></a> <a href="https://discord.gg/77bzAwyPZP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="77bzAwyPZP" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahvine&show_icons=true&locale=en&layout=compact" alt="Nahvine" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahvine&show_icons=true&locale=en" alt="Nahvine" /></p>
+---
+
+### 🌐 Let's connect:
+<p align="left">
+  <a href="https://fb.com/Nahvine" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" width="30" height="30" /></a>
+  <a href="https://www.youtube.com/channel/UCqnb_ntxhhG_js7OdiSGs1A" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" width="30" height="30" /></a>
+  <a href="https://discord.gg/77bzAwyPZP" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" width="30" height="30" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack & Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nahvine&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 Stats & Analytics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahvine&show_icons=true&theme=tokyonight" alt="Nahvine GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahvine&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌀 Quote of the Day:
+> “Stay hungry. Stay foolish.” – Steve Jobs  
+> *And don’t forget to `commit` your dreams 💫*
+
+---
+
