@@ -54,25 +54,6 @@
 
 ---
 
-## 🧠 Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.isocalendar.fullyear.svg" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.habits.charts.svg" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.topics.svg" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.achievements.compact.svg" width="90%">
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
