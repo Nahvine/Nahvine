@@ -54,10 +54,26 @@
 
 ---
 
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nahvine&theme=gruvbox&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🧠 Metrics Dashboard
+> Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.habits.charts.svg" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.topics.svg" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.achievements.compact.svg" width="90%">
 </p>
 
 ---
