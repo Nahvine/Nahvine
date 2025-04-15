@@ -65,15 +65,7 @@
 > Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.habits.charts.svg" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.topics.svg" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.plugin.achievements.compact.svg" width="90%">
+  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.svg" width="90%">
 </p>
 
 ---
