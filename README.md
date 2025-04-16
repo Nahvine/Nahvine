@@ -17,7 +17,7 @@
 
 ## 💡 About Me
 - 🧠 Code and design meet at the intersection of creativity and logic.
-- 🔭 Currently building **OGMode** & **Ostebox**.
+- 🔭 Currently building **OGMode** && **Ostebox**.
 - 💻 Languages I vibe with: `C#`, `Kotlin`, `Python`, `JS`, `NodeJS`, `React`, `Unity`, `Unreal`.
 - 🤝 Always open to collaboration, mentoring, and tech chats over ☕.
 - 📫 Drop me a line at **enderboyvn81@gmail.com**
