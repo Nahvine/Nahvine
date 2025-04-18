@@ -65,7 +65,7 @@
 > Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.svg" width="90%">
+  <img src="https://raw.githubusercontent.com/Nahvine/Nahvine/main/metrics.svg" width="80%">
 </p>
 
 ---
