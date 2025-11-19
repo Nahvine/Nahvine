@@ -20,7 +20,7 @@
 - 🔭 Currently building **OGMode** && **Ostebox**.
 - 💻 Languages I vibe with: `C#`, `Kotlin`, `Python`, `JS`, `NodeJS`, `React`, `Unity`, `Unreal`.
 - 🤝 Always open to collaboration, mentoring, and tech chats over ☕.
-- 📫 Drop me a line at **enderboyvn81@gmail.com**
+- 📫 Drop me a line at **nva.nguyenvietanhh@gmail.com**
 - 🎧 Fun fact: I debug faster with lofi music + strong Vietnamese coffee.
 
 ---
